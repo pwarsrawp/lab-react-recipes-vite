@@ -1,4 +1,4 @@
-# LAB | React IronNutrition
+# LAB | React Recipes
 
 <details>
   <summary>
@@ -27,8 +27,6 @@
 
 ## Introduction
 
-You just realized that since the beginning of the bootcamp, your diet is not healthy, and it may have an impact on your health (and productivity), now and in the long term.
-
 To take care of your diet, you created a nutrition app that will track everything you eat!
 
 <p align="center">
@@ -45,7 +43,7 @@ To take care of your diet, you created a nutrition app that will track everythin
 - Open the LAB and start:
 
   ```bash
-  cd lab-react-ironnutrition-vite
+  cd lab-react-recipes-vite
   npm install
   npm run dev
   ```
